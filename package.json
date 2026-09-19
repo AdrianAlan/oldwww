@@ -2,10 +2,12 @@
   "name": "adrianalan",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://adrianalan.github.io/oldwww",
   "dependencies": {
     "html-react-parser": "^4.2.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-router-dom": "^6.21.1",
     "react-scripts": "^4.0.1"
   },
   "scripts": {
@@ -26,6 +28,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }

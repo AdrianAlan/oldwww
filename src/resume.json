@@ -6,11 +6,7 @@
     "x_pictureFallback": "images/adrianalanpol.jpg",
     "summary": "",
     "x_title": "",
-    "introduction1": "Hi, I'm Adrian. I am a software engineer and machine learning researcher working on a $500M <a href='https://cms.cern/'>physics experiment</a> with 4000 scientists worldwide.",
-    "introduction2": "I cooperate in multidisciplinary and multicultural teams to integrate and scale the state-of-the-art deep learning in the production code.",
-    "introduction3": "In my free time I share my passion for science and technology by showing the <a href='https://home.cern/science/accelerators/large-hadron-collider'>Large Hadron Collider (LHC)</a> to the public as an official guide.",
-    "introduction4": "I focus on generative models, anomaly detection and inference optimization. I published my findings in Nature, ICLR, NeurIPS, IEEE.",
-    "introduction5": "I enjoy good tea and wine.",
+    "introduction": "<p>Hi, I'm Adrian. I am a software engineer and machine learning researcher. I specialize in large language models, anomaly detection, and inference compute optimization for edge devices. Over the past decade, I've had the privilege of developing systems that solve challenging, real-world problems: from contributing to <a href='https://cms.cern/'>physics experiments</a> at the Large Hadron Collider to creating enterprise solutions at Thomson Reuters, IBM, Mendix and United Nations. I published my findings in leading journals and conferences such as Nature, ICLR, NeurIPS, and EMNLP. I'm a collaborative problem-solver, believing that the most innovative solutions emerge when diverse teams work together. Whether I'm working with fellow scientists, engineers, or stakeholders without a technical background, my goal is always the same: to make advanced technology understandable and impactful.<br><br> Thanks for stopping by.",
     "location": {
       "country": "Switzerland",
       "region": "Geneva"
@@ -37,6 +33,16 @@
     ]
   },
   "news": [
+    {
+      "title": "Joining Thomson Reuters Lab in Zug",
+      "content": "I will be joining TR Lab in Zug as a Applied Machine Learning Scientist.",
+      "date": "1 January 2024"
+    },
+    {
+      "title": "Paper at ESANN 2023",
+      "content": "Our <a href='https://arxiv.org/abs/2310.06047'>paper</a> on knowledge distillation was accepted and presented at ESANN 2023.",
+      "date": "22 September 2023"
+    },
     {
       "title": "Poster at ICLR 2023 in Kigali",
       "content": "I was proud to present our work on quantization, preprint available <a href='https://arxiv.org/abs/2210.08502'>here</a>.",

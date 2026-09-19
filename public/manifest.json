@@ -1,20 +1,7 @@
 {
-  "short_name": "Adrian Alan Pol",
-  "name": "Adrian Alan Pol | Software Engineer | Geneva, Switzerland",
-  "icons": [
-    {
-      "src": "images/favicon/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "images/favicon/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
+  "short_name": "",
+  "name": "",
+  "icons": "",
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#3273DC",
-  "background_color": "#ffffff"
+  "display": "standalone"
 }

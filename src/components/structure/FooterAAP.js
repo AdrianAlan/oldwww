@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer has-text-centered">© 2023 Dani and Adrian</footer>
+    <footer className="footer"></footer>
   );
 }
 
